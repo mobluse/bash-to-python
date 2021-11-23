@@ -1,2 +1,2 @@
-# bash-to-python
-Bash scripts converted to Python
+# Bash to Python
+Bash or other shell scripts or one-liners converted to Python3
