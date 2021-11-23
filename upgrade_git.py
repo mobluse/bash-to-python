@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Finds all Git repositories and does `git pull`.
 from subprocess import check_output
 import re
 import os
